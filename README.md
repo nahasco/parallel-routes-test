@@ -33,6 +33,6 @@ You should see that it returns the same title for both although I have explicitl
 I have placed a `console.log` in each route, you will see that both are logged to the console. I also am facing this with my app where fetches in both routes are being called causing extra unecessary load on my API.
 
 
-These very basic bugs make the parallel routes feature feel like the feature should be in experimental state and far from production ready. It's a really nice feature and I am hoping the Nextjs team polishes it out.
+These very basic bugs make the parallel routes feature feel like it should be in an experimental state and far from production ready. It's a really nice feature and I am hoping the Nextjs team polishes it out.
 
 
